@@ -1,0 +1,31 @@
+html {
+    font-family: 'Pattaya', sans-serif;
+    background-color: cadetblue;
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+p, li{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(173, 173, 173);
+    padding: 0 20px 20px 20px;
+    border: 1px solid rgb(139, 14, 14);
+}
+img {
+    display:block;
+    margin: 0 auto;
+    width: 80%;
+}
+.myclass{
+    width: 50%;
+}
+.pclass{
+    font-size: 30px;
+}
